@@ -3,7 +3,8 @@ This project analyzes an insurance dataset to practice core Python data manipula
 
 ## Skills demonstrated:
 - Data slicing and indexing  
-- Filtering data based on conditions  
+- Filtering data based on conditions
+- Grouping and aggregating data using Groupby  
 - Calculating measures of central tendency (mean, median, mode)  
 - Basic exploratory data analysis  
 
